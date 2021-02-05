@@ -133,3 +133,7 @@ endif
 # Charger images
 PRODUCT_PACKAGES += \
     charger_res_images
+    
+# Extra Packages
+PRODUCT_PACKAGES += \
+    StitchImage
